@@ -93,7 +93,7 @@ export default function GESDashboard({ data }: Props) {
             </div>
             <div>
               <h1 className="text-lg font-bold text-gray-900">GES Dashboard</h1>
-              <p className="text-xs text-gray-500">Güneş Enerji Santrali — Mart 2024</p>
+              <p className="text-xs text-gray-500">Güneş Enerji Santrali — Mart 2026</p>
             </div>
           </div>
           <div className="flex items-center gap-2 text-xs text-gray-500 bg-gray-50 px-3 py-1.5 rounded-lg border border-gray-200">
